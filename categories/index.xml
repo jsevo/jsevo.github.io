@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JSblog</title>
-    <link>/categories/</link>
+    <link>https://jsevo.github.io/categories/</link>
     <description>Recent content in Categories on JSblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#xA9; 2017 Jonas Schl&amp;uuml;ter. All Rights Reserved.</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jsevo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Commentary</title>
-      <link>/categories/commentary/</link>
+      <link>https://jsevo.github.io/categories/commentary/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/commentary/</guid>
+      <guid>https://jsevo.github.io/categories/commentary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethereum</title>
-      <link>/categories/ethereum/</link>
+      <link>https://jsevo.github.io/categories/ethereum/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/ethereum/</guid>
+      <guid>https://jsevo.github.io/categories/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opinion</title>
-      <link>/categories/opinion/</link>
+      <link>https://jsevo.github.io/categories/opinion/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/opinion/</guid>
+      <guid>https://jsevo.github.io/categories/opinion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>South Korea</title>
-      <link>/categories/south-korea/</link>
+      <link>https://jsevo.github.io/categories/south-korea/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/south-korea/</guid>
+      <guid>https://jsevo.github.io/categories/south-korea/</guid>
       <description></description>
     </item>
     

@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JSblog</title>
-    <link>/tags/</link>
+    <link>https://jsevo.github.io/tags/</link>
     <description>Recent content in Tags on JSblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#xA9; 2017 Jonas Schl&amp;uuml;ter. All Rights Reserved.</copyright>
     <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jsevo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bitcoin</title>
-      <link>/tags/bitcoin/</link>
+      <link>https://jsevo.github.io/tags/bitcoin/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bitcoin/</guid>
+      <guid>https://jsevo.github.io/tags/bitcoin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain</title>
-      <link>/tags/blockchain/</link>
+      <link>https://jsevo.github.io/tags/blockchain/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blockchain/</guid>
+      <guid>https://jsevo.github.io/tags/blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Btc</title>
-      <link>/tags/btc/</link>
+      <link>https://jsevo.github.io/tags/btc/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/btc/</guid>
+      <guid>https://jsevo.github.io/tags/btc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choi</title>
-      <link>/tags/choi/</link>
+      <link>https://jsevo.github.io/tags/choi/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/choi/</guid>
+      <guid>https://jsevo.github.io/tags/choi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eth</title>
-      <link>/tags/eth/</link>
+      <link>https://jsevo.github.io/tags/eth/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/eth/</guid>
+      <guid>https://jsevo.github.io/tags/eth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ether</title>
-      <link>/tags/ether/</link>
+      <link>https://jsevo.github.io/tags/ether/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ether/</guid>
+      <guid>https://jsevo.github.io/tags/ether/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethereum</title>
-      <link>/tags/ethereum/</link>
+      <link>https://jsevo.github.io/tags/ethereum/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ethereum/</guid>
+      <guid>https://jsevo.github.io/tags/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Park</title>
-      <link>/tags/park/</link>
+      <link>https://jsevo.github.io/tags/park/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/park/</guid>
+      <guid>https://jsevo.github.io/tags/park/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samsung</title>
-      <link>/tags/samsung/</link>
+      <link>https://jsevo.github.io/tags/samsung/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/samsung/</guid>
+      <guid>https://jsevo.github.io/tags/samsung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>South Korea</title>
-      <link>/tags/south-korea/</link>
+      <link>https://jsevo.github.io/tags/south-korea/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/south-korea/</guid>
+      <guid>https://jsevo.github.io/tags/south-korea/</guid>
       <description></description>
     </item>
     
