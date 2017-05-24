@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JSblog</title>
-    <link>jsevo.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on JSblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#xA9; 2017 Jonas Schl&amp;uuml;ter. All Rights Reserved.</copyright>
     <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="jsevo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bitcoin</title>
-      <link>jsevo.github.io/tags/bitcoin/</link>
+      <link>/tags/bitcoin/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/bitcoin/</guid>
+      <guid>/tags/bitcoin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain</title>
-      <link>jsevo.github.io/tags/blockchain/</link>
+      <link>/tags/blockchain/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/blockchain/</guid>
+      <guid>/tags/blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Btc</title>
-      <link>jsevo.github.io/tags/btc/</link>
+      <link>/tags/btc/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/btc/</guid>
+      <guid>/tags/btc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choi</title>
-      <link>jsevo.github.io/tags/choi/</link>
+      <link>/tags/choi/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/choi/</guid>
+      <guid>/tags/choi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eth</title>
-      <link>jsevo.github.io/tags/eth/</link>
+      <link>/tags/eth/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/eth/</guid>
+      <guid>/tags/eth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ether</title>
-      <link>jsevo.github.io/tags/ether/</link>
+      <link>/tags/ether/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/ether/</guid>
+      <guid>/tags/ether/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethereum</title>
-      <link>jsevo.github.io/tags/ethereum/</link>
+      <link>/tags/ethereum/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/ethereum/</guid>
+      <guid>/tags/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Park</title>
-      <link>jsevo.github.io/tags/park/</link>
+      <link>/tags/park/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/park/</guid>
+      <guid>/tags/park/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samsung</title>
-      <link>jsevo.github.io/tags/samsung/</link>
+      <link>/tags/samsung/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/samsung/</guid>
+      <guid>/tags/samsung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>South Korea</title>
-      <link>jsevo.github.io/tags/south-korea/</link>
+      <link>/tags/south-korea/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>jsevo.github.io/tags/south-korea/</guid>
+      <guid>/tags/south-korea/</guid>
       <description></description>
     </item>
     

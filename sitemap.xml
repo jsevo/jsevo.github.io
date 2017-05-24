@@ -3,118 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>jsevo.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>jsevo.github.io/post/cryptocurrency/</loc>
+    <loc>/post/cryptocurrency/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/bitcoin/</loc>
-    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>jsevo.github.io/tags/blockchain/</loc>
+    <loc>/tags/bitcoin/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/btc/</loc>
+    <loc>/tags/blockchain/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>jsevo.github.io/tags/choi/</loc>
+    <loc>/tags/btc/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/categories/commentary/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/choi/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/eth/</loc>
+    <loc>/categories/commentary/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/ether/</loc>
+    <loc>/tags/eth/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/ethereum/</loc>
+    <loc>/tags/ether/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/categories/ethereum/</loc>
+    <loc>/categories/ethereum/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/</loc>
+    <loc>/tags/ethereum/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/categories/opinion/</loc>
+    <loc>/categories/opinion/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/park/</loc>
+    <loc>/tags/park/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/samsung/</loc>
+    <loc>/tags/samsung/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/south-korea/</loc>
+    <loc>/categories/south-korea/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/categories/south-korea/</loc>
+    <loc>/tags/south-korea/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jsevo.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
